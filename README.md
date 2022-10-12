@@ -1,6 +1,7 @@
-## Hi there!👋
 
-### Welcome to my GitHub profile! 
+### Hi there!👋
+
+#### Welcome to my GitHub profile! 
 
 #### This is the start of my journey with GitHub, but some here is some information about me and what I do:
 
